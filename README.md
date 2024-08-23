@@ -1,4 +1,4 @@
-# E-commerce-websiite
+# E-commerce-website
 
 ### Installation
 
